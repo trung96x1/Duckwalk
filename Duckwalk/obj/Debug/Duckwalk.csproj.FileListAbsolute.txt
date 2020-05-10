@@ -1,0 +1,9 @@
+C:\Users\Trung96x1\Documents\Visual Project\Duckwalk\Duckwalk\bin\Debug\Duckwalk.exe.config
+C:\Users\Trung96x1\Documents\Visual Project\Duckwalk\Duckwalk\bin\Debug\Duckwalk.exe
+C:\Users\Trung96x1\Documents\Visual Project\Duckwalk\Duckwalk\bin\Debug\Duckwalk.pdb
+C:\Users\Trung96x1\Documents\Visual Project\Duckwalk\Duckwalk\obj\Debug\Duckwalk.csprojResolveAssemblyReference.cache
+C:\Users\Trung96x1\Documents\Visual Project\Duckwalk\Duckwalk\obj\Debug\Duckwalk.Form1.resources
+C:\Users\Trung96x1\Documents\Visual Project\Duckwalk\Duckwalk\obj\Debug\Duckwalk.Properties.Resources.resources
+C:\Users\Trung96x1\Documents\Visual Project\Duckwalk\Duckwalk\obj\Debug\Duckwalk.csproj.GenerateResource.Cache
+C:\Users\Trung96x1\Documents\Visual Project\Duckwalk\Duckwalk\obj\Debug\Duckwalk.exe
+C:\Users\Trung96x1\Documents\Visual Project\Duckwalk\Duckwalk\obj\Debug\Duckwalk.pdb
